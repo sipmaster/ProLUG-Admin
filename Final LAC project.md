@@ -125,3 +125,4 @@ systemctl restart grafana-server
 ##### Import dashboard 159 in Grafana
 
 ![[Pasted image 20250816150636.png]]
+![[Pasted image 20250816150947.png]]
